@@ -1,2 +1,2 @@
-# -DM-DNN
+# [DM]DNN
 Neural Network Machine-learning algorithms for [DM].
